@@ -1,0 +1,199 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "LiteDB/4.1.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "compile": {
+          "lib/net40/LiteDB.dll": {}
+        },
+        "runtime": {
+          "lib/net40/LiteDB.dll": {}
+        }
+      },
+      "IFCAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "LiteDB": "4.1.4"
+        },
+        "compile": {
+          "bin/placeholder/IFCAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IFCAPI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "LiteDB/4.1.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "compile": {
+          "lib/net40/LiteDB.dll": {}
+        },
+        "runtime": {
+          "lib/net40/LiteDB.dll": {}
+        }
+      },
+      "IFCAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "LiteDB": "4.1.4"
+        },
+        "compile": {
+          "bin/placeholder/IFCAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IFCAPI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "LiteDB/4.1.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "compile": {
+          "lib/net40/LiteDB.dll": {}
+        },
+        "runtime": {
+          "lib/net40/LiteDB.dll": {}
+        }
+      },
+      "IFCAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "LiteDB": "4.1.4"
+        },
+        "compile": {
+          "bin/placeholder/IFCAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IFCAPI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "LiteDB/4.1.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "compile": {
+          "lib/net40/LiteDB.dll": {}
+        },
+        "runtime": {
+          "lib/net40/LiteDB.dll": {}
+        }
+      },
+      "IFCAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "LiteDB": "4.1.4"
+        },
+        "compile": {
+          "bin/placeholder/IFCAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IFCAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiteDB/4.1.4": {
+      "sha512": "g4g9JlHzRBZl+Gd2UbiRdszZ7t8wozU2wX7+5xY5uE79tmcgcDhha+ubAP84G1VLbwQmhBGCzRfIx+epLmJciQ==",
+      "type": "package",
+      "path": "litedb/4.1.4",
+      "files": [
+        "lib/net35/LiteDB.dll",
+        "lib/net35/LiteDB.xml",
+        "lib/net40/LiteDB.dll",
+        "lib/net40/LiteDB.xml",
+        "lib/netstandard1.3/LiteDB.dll",
+        "lib/netstandard1.3/LiteDB.xml",
+        "lib/netstandard2.0/LiteDB.dll",
+        "lib/netstandard2.0/LiteDB.xml",
+        "litedb.4.1.4.nupkg.sha512",
+        "litedb.nuspec"
+      ]
+    },
+    "IFCAPI/1.0.0": {
+      "type": "project",
+      "path": "../IFCAPI/IFCAPI.csproj",
+      "msbuildProject": "../IFCAPI/IFCAPI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "IFCAPI >= 1.0.0",
+      "LiteDB >= 4.1.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\JingYing\\IFCPlatform\\IFCLib\\IFCAPI\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "E:\\JingYing\\IFCPlatform\\IFCLib\\IFCAPI\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "E:\\JingYing\\IFCPlatform\\IFCLib\\IFCAPI\\Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "E:\\JingYing\\IFCPlatform\\IFCLib\\IFCAPI\\IFCAPI\\IFCAPI.csproj": {
+              "projectPath": "E:\\JingYing\\IFCPlatform\\IFCLib\\IFCAPI\\IFCAPI\\IFCAPI.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "LiteDB": {
+            "target": "Package",
+            "version": "[4.1.4, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

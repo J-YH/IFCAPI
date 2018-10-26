@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\IFCAPI\IFCAPI\bin\Debug\netstandard2.0\IFCAPI.deps.json
+C:\Users\user\source\repos\IFCAPI\IFCAPI\bin\Debug\netstandard2.0\IFCAPI.dll
+C:\Users\user\source\repos\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.AssemblyInfo.cs
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\bin\Debug\netstandard2.0\IFCAPI.deps.json
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\bin\Debug\netstandard2.0\IFCAPI.dll
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\bin\Debug\netstandard2.0\IFCAPI.pdb
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.csprojAssemblyReference.cache
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.csproj.CoreCompileInputs.cache
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.AssemblyInfoInputs.cache
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.AssemblyInfo.cs
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.dll
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\obj\Debug\netstandard2.0\IFCAPI.pdb
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\bin\Debug\netstandard2.0\Database\IFCSchema\IFC4.txt
+E:\JingYing\IFCPlatform\IFCLib\IFCAPI\IFCAPI\bin\Debug\netstandard2.0\Database\EmbeddedDB.db
